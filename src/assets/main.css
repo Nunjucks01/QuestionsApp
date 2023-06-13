@@ -1,0 +1,44 @@
+@import "./base.css";
+
+:root {
+  --color-white: #ffffff;
+  --color-blue: rgb(0, 191, 255);
+  --color-text: #000000;
+  --color-inactive: rgba(0, 0, 0, 0.1);
+  --color-background: aliceblue;
+  --color-header: rgb(7, 7, 36);
+  --color-inactive-text: rgba(0, 0, 0, 0.3);
+}
+
+strong {
+  font-weight: 700;
+}
+
+select {
+  padding: 8px;
+  border: solid 2px var(--color-inactive);
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+input::placeholder {
+  color: var(--color-inactive-text);
+}
+
+.app {
+  background-color: var(--color-background);
+  height: 100vh;
+  width: 100vw;
+}
+
+section {
+  background-color: var(--color-white);
+  max-width: 1400px;
+  margin: auto;
+  padding: 16px;
+  box-shadow: 0px 0px 16px 0px #dddddd;
+}
+
+button {
+  padding: 0;
+}

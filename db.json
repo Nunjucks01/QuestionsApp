@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "title": "What are the different data types present in javascript?",
+      "level": "junior"
+    },
+    {
+      "id": 1,
+      "title": "Explain Hoisting in javascript.",
+      "level": "junior"
+    },
+    {
+      "id": 2,
+      "title": "Difference between “==” and “===” operators.",
+      "level": "senior"
+    },
+    {
+      "id": 3,
+      "title": "Explain Implicit Type Coercion in javascript.",
+      "level": "junior"
+    },
+    {
+      "id": 4,
+      "title": "Is javascript a statically typed or a dynamically typed language?",
+      "level": "senior"
+    },
+    {
+      "id": 5,
+      "title": "What is NaN property in JavaScript?",
+      "level": "junior"
+    },
+    {
+      "id": 6,
+      "title": "Explain passed by value and passed by reference.",
+      "level": "middle"
+    },
+    {
+      "id": 7,
+      "title": "What is an Immediately Invoked Function in javascript?",
+      "level": "middle"
+    },
+    {
+      "id": 8,
+      "title": "Explain Higher Order Functions in javascript.",
+      "level": "middle"
+    },
+    {
+      "id": 9,
+      "title": "Explain “this” keyword.",
+      "level": "middle"
+    },
+    {
+      "id": 10,
+      "title": "Explain call(), apply() and, bind() methods.",
+      "level": "middle"
+    },
+    {
+      "id": 11,
+      "title": "What is Currying in javascript?",
+      "level": "middle"
+    },
+    {
+      "id": 12,
+      "title": "Explain Scope and Scope Chain in javascript.",
+      "level": "middle"
+    },
+    {
+      "id": 13,
+      "title": "Explain Closures in JavaScript.",
+      "level": "middle"
+    },
+    {
+      "id": 14,
+      "title": "What are object prototypes?",
+      "level": "middle"
+    },
+    {
+      "id": 15,
+      "title": "What are callbacks?",
+      "level": "senior"
+    },
+    {
+      "id": 16,
+      "title": "What is memoization?",
+      "level": "senior"
+    },
+    {
+      "id": 17,
+      "title": "What is recursion in a programming language?",
+      "level": "senior"
+    },
+    {
+      "id": 18,
+      "title": "What is the use of a constructor function in javascript?",
+      "level": "senior"
+    },
+    {
+      "id": 19,
+      "title": "What is DOM?",
+      "level": "senior"
+    },
+    {
+      "id": 20,
+      "title": "What are arrow functions?",
+      "level": "senior"
+    },
+    {
+      "id": 21,
+      "title": "Differences between declaring variables using var, let and const.",
+      "level": "senior"
+    },
+    {
+      "id": 22,
+      "title": "What is the rest parameter and spread operator?",
+      "level": "senior"
+    },
+    {
+      "id": 23,
+      "title": "What is the use of promises in javascript?",
+      "level": "junior"
+    },
+    {
+      "id": 24,
+      "title": "What are classes in javascript?",
+      "level": "junior"
+    },
+    {
+      "id": 25,
+      "title": "What are generator functions?",
+      "level": "senior"
+    },
+    {
+      "id": 26,
+      "title": "Explain WeakSet in javascript.",
+      "level": "senior"
+    }
+  ]
+}
